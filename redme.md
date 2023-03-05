@@ -5,7 +5,7 @@ LICENSE: [MIT](./license.md)
 ![git logo](./assets/1920px-Git-logo.svg.png)
 ---
 ### Содержание
-1. Что-то
+1. [Введение](./introduction.md)
 2. [Git add](./add.md)
 3. [Git init]
 
