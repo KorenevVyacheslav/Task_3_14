@@ -6,8 +6,11 @@ LICENSE: [MIT](./license.md)
 ---
 ### Содержание
 1. [Введение](./introduction.md)
-2. [Git add](./add.md)
-3. [Git init]
+2. [Git init](./init.md)
+3. [Git config](./config.md)
+4. [Git status](./status.md)
+5. [Git add](./add.md)
+6. [Git comit](./comit.md)
 
 ---
 GIT logo by Jason Long http://git-scm.com/downloads/logos
