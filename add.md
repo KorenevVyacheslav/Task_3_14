@@ -5,7 +5,7 @@
 
 _Cинтаксис:_
 ```
-git add "filename.extention"
+git add filename.extention
 ```
 Пример:
 
