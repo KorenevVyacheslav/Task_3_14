@@ -4,7 +4,7 @@
 (C) Стив Джобс
 
 # Инструкция по работе с GIT
-
+cls
 LICENSE: [MIT](./license.md)
 
 ![git logo](./assets/1920px-Git-logo.svg.png)
@@ -15,8 +15,9 @@ LICENSE: [MIT](./license.md)
 3. [Git config](./config.md)
 4. [Git status](./status.md)
 5. [Git add](./add.md)
-6. [Git comit](./comit.md)
-7. [Git branch](./branch.md)
+6. [Git rm](./rm.md)
+7. [Git comit](./comit.md)
+8. [Git branch](./branch.md)
 
 
 

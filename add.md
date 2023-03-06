@@ -7,6 +7,9 @@ _Cинтаксис:_
 ```
 git add "filename.extention"
 ```
+Пример:
+
+![git add ignore.png](./assets/git%20add%20ignore.png)
 
 Чтобы добавить все файлы в каталоге в индекс (кроме игнорируемых), используйте команду:
 ```
