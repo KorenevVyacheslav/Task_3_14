@@ -1,3 +1,8 @@
+>«Компьютер — это самый удивительный инструмент,
+с каким я когда-либо сталкивался.
+Это велосипед для нашего сознания».  
+(C) Стив Джобс
+
 # Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
@@ -11,6 +16,11 @@ LICENSE: [MIT](./license.md)
 4. [Git status](./status.md)
 5. [Git add](./add.md)
 6. [Git comit](./comit.md)
+7. [Git branch](./branch.md)
+
+
+
+
 
 ---
 GIT logo by Jason Long http://git-scm.com/downloads/logos
