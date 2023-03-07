@@ -16,7 +16,7 @@ git branch
 
 _Cинтаксис:_
 ```
-git branch branch name
+git branch branchname
 ```
 Пример:
 
