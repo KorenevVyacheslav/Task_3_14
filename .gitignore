@@ -1,1 +1,13 @@
 Hello.php
+/node_modules
+/packages
+*.o
+.pyc
+.class
+/bin
+/out
+/target
+*.log
+*.lock
+*.tmp
+Thumbs.db

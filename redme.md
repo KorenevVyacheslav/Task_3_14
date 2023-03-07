@@ -19,7 +19,7 @@ LICENSE: [MIT](./license.md)
 7. [Git comit](./comit.md)
 8. [Git branch](./branch.md)
 9. [Git checkout](./checkout.md)
-9. [Git merge](./merge.md)
+10. [Git merge](./merge.md)
 
 
 
