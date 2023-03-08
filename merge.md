@@ -4,7 +4,7 @@
 
 _Синтаксис:_
 ```
-git branch branchname
+git merge branchname
 ```
 
 Пример:

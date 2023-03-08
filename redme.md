@@ -20,8 +20,8 @@ LICENSE: [MIT](./license.md)
 8. [Git branch](./branch.md)
 9. [Git checkout](./checkout.md)
 10. [Git merge](./merge.md)
-11. [Git clone](./merge.md)
-
+11. [Git clone](./clone.md)
+12. [Полезные ссылки](./link.md)
 
 ---
 GIT logo by Jason Long http://git-scm.com/downloads/logos
