@@ -16,4 +16,5 @@ git add filename.extention
 git add .
 ```
 Пример:
+
 ![git add.png](./assets/git%20add.png)
