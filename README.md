@@ -1,29 +1,5 @@
->«Компьютер — это самый удивительный инструмент,
->с каким я когда-либо сталкивался.
->это велосипед для нашего сознания».  
->(C) Стив Джобс
-<!--инструкция-->
-# Инструкция по работе с GIT
-cls
-LICENSE: [MIT](./license.md)
 
-![git logo](./assets/1920px-Git-logo.svg.png)
-<!--содержание-->
----
-### Содержание 
-1. [Введение](./introduction.md)
-2. [Git init](./init.md)
-3. [Git config](./config.md)
-4. [Git status](./status.md)
-5. [Git add](./add.md)
-6. [Git rm](./rm.md)
-7. [Git comit](./comit.md)
-8. [Git branch](./branch.md)
-9. [Git checkout](./checkout.md)
-10. [Git merge](./merge.md)
-11. [Git clone](./clone.md)
-12. [Полезные ссылки](./link.md)
+## Как открыть/запустить
 
----
-GIT logo by Jason Long http://git-scm.com/downloads/logos
-License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
+Зайти в папку сайта HTML c  файловом index.html, кликнуть 2 раза по файлу index.html.
